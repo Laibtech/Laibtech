@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laib</h1>
 <h3 align="center">A passionate Software engineer from Pakistan</h3>
-<img align="right" alt="coding" widht="100" src="https://www.tempo.io/hs-fs/hubfs/Women-Tech-1185x813-1.png?width=750&name=Women-Tech-1185x813-1.png">
+<img align="right" alt="coding" widht="100" src="https://cdn.xl.thumbs.canstockphoto.com/canstock36238169.jpg">
 
 
 - 🔭 I’m currently working on **e-learning website**
