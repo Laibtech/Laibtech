@@ -1,18 +1,10 @@
-<h1 align="center">Hi 👋, I'm Laib</h1>
-<h3 align="center">A passionate Software engineer from Pakistan</h3>
-<img align="right" alt="coding" widht="100" src="https://cdn.xl.thumbs.canstockphoto.com/canstock36238169.jpg">
+<h1 align="left">Asalam o aliakum👋, I'm Laib</h1>
+<img align="right" alt="coding" width="400" src="https://loons.co.in/image/workshop/Designer-life.gif">
 
+Software Engineer with proven experience in Django and html css bootstrap javasript react-js.A software engineer 1 years of experience.
 
 - 🔭 I’m currently working on **e-learning website**
-
-- 🌱 I’m currently learning **Python,Django**
-
-- 👯 I’m looking to collaborate on **react projects**
-
-- 🤝 I’m looking for help with **front end**
-
-- 💬 Ask me about **React-js,html,css,bootstrap,javascript**
-
+- 💬 Ask me about **React-js,html,css,bootstrap,javascript,Wordpress,Elementor**
 - 📫 How to reach me **laibazafar131@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
